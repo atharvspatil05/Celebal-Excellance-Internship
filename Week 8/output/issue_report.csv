@@ -1,0 +1,177 @@
+table_name,record_id,issue
+orders,O00001,Missing customer_id
+orders,O00002,Missing customer_id
+orders,O00003,Missing customer_id
+orders,O00004,Missing customer_id
+orders,O00005,Missing customer_id
+orders,O00006,Missing customer_id
+orders,O00007,Missing customer_id
+orders,O00008,Missing customer_id
+orders,O00009,Missing customer_id
+orders,O00010,Missing customer_id
+orders,O00011,Missing customer_id
+orders,O00012,Missing customer_id
+orders,O00013,Missing customer_id
+orders,O00014,Missing customer_id
+orders,O00015,Missing customer_id
+orders,O00016,Missing customer_id
+orders,O00017,Missing customer_id
+orders,O00018,Missing customer_id
+orders,O00019,Missing customer_id
+orders,O00020,Missing customer_id
+orders,O00021,Missing customer_id
+orders,O00022,Missing customer_id
+orders,O00023,Missing customer_id
+orders,O00024,Missing customer_id
+orders,O00025,Missing customer_id
+orders,O00026,Missing customer_id
+orders,O00027,Missing customer_id
+orders,O00028,Missing customer_id
+orders,O00029,Missing customer_id
+orders,O00030,Missing customer_id
+orders,O00031,Missing customer_id
+orders,O00032,Missing customer_id
+orders,O00033,Missing customer_id
+orders,O00034,Missing customer_id
+orders,O00035,Missing customer_id
+orders,O00036,Missing customer_id
+orders,O00037,Missing customer_id
+orders,O00038,Missing customer_id
+orders,O00039,Missing customer_id
+orders,O00040,Missing customer_id
+orders,O00041,Missing customer_id
+orders,O00042,Missing customer_id
+orders,O00043,Missing customer_id
+orders,O00044,Missing customer_id
+orders,O00045,Missing customer_id
+orders,O00046,Missing customer_id
+orders,O00047,Missing customer_id
+orders,O00048,Missing customer_id
+orders,O00049,Missing customer_id
+orders,O00050,Missing customer_id
+order_items,OI000001,Negative quantity / return
+order_items,OI000002,Negative quantity / return
+order_items,OI000003,Negative quantity / return
+order_items,OI000004,Negative quantity / return
+order_items,OI000005,Negative quantity / return
+order_items,OI000006,Negative quantity / return
+order_items,OI000007,Negative quantity / return
+order_items,OI000008,Negative quantity / return
+order_items,OI000009,Negative quantity / return
+order_items,OI000010,Negative quantity / return
+order_items,OI000011,Negative quantity / return
+order_items,OI000012,Negative quantity / return
+order_items,OI000013,Negative quantity / return
+order_items,OI000014,Negative quantity / return
+order_items,OI000015,Negative quantity / return
+order_items,OI000016,Negative quantity / return
+order_items,OI000017,Negative quantity / return
+order_items,OI000018,Negative quantity / return
+order_items,OI000019,Negative quantity / return
+order_items,OI000020,Negative quantity / return
+order_items,OI000021,Negative quantity / return
+order_items,OI000022,Negative quantity / return
+order_items,OI000023,Negative quantity / return
+order_items,OI000024,Negative quantity / return
+order_items,OI000025,Negative quantity / return
+order_items,OI000026,Negative quantity / return
+order_items,OI000027,Negative quantity / return
+order_items,OI000028,Negative quantity / return
+order_items,OI000029,Negative quantity / return
+order_items,OI000030,Negative quantity / return
+order_items,OI000031,Negative quantity / return
+order_items,OI000032,Negative quantity / return
+order_items,OI000033,Negative quantity / return
+order_items,OI000034,Negative quantity / return
+order_items,OI000035,Negative quantity / return
+order_items,OI000036,Negative quantity / return
+order_items,OI000037,Negative quantity / return
+order_items,OI000038,Negative quantity / return
+order_items,OI000039,Negative quantity / return
+order_items,OI000040,Negative quantity / return
+order_items,OI000041,Negative quantity / return
+order_items,OI000042,Negative quantity / return
+order_items,OI000043,Negative quantity / return
+order_items,OI000044,Negative quantity / return
+order_items,OI000045,Negative quantity / return
+order_items,OI000046,Negative quantity / return
+order_items,OI000047,Negative quantity / return
+order_items,OI000048,Negative quantity / return
+order_items,OI000049,Negative quantity / return
+order_items,OI000050,Negative quantity / return
+order_items,OI000051,Negative quantity / return
+order_items,OI000052,Negative quantity / return
+order_items,OI000053,Negative quantity / return
+order_items,OI000054,Negative quantity / return
+order_items,OI000055,Negative quantity / return
+order_items,OI000056,Negative quantity / return
+order_items,OI000057,Negative quantity / return
+order_items,OI000058,Negative quantity / return
+order_items,OI000059,Negative quantity / return
+order_items,OI000060,Negative quantity / return
+order_items,OI000061,Negative quantity / return
+order_items,OI000062,Negative quantity / return
+order_items,OI000063,Negative quantity / return
+order_items,OI000064,Negative quantity / return
+order_items,OI000065,Negative quantity / return
+order_items,OI000066,Negative quantity / return
+order_items,OI000067,Negative quantity / return
+order_items,OI000068,Negative quantity / return
+order_items,OI000069,Negative quantity / return
+order_items,OI000070,Negative quantity / return
+order_items,OI000071,Negative quantity / return
+order_items,OI000072,Negative quantity / return
+order_items,OI000073,Negative quantity / return
+order_items,OI000074,Negative quantity / return
+order_items,OI000075,Negative quantity / return
+order_items,OI000076,Negative quantity / return
+order_items,OI000077,Negative quantity / return
+order_items,OI000078,Negative quantity / return
+order_items,OI000079,Negative quantity / return
+order_items,OI000080,Negative quantity / return
+order_items,OI000081,Negative quantity / return
+order_items,OI000082,Negative quantity / return
+order_items,OI000083,Negative quantity / return
+order_items,OI000084,Negative quantity / return
+order_items,OI000085,Negative quantity / return
+order_items,OI000086,Negative quantity / return
+order_items,OI000087,Negative quantity / return
+order_items,OI000088,Negative quantity / return
+order_items,OI000089,Negative quantity / return
+order_items,OI000090,Negative quantity / return
+customers,CUST0050,Invalid email
+customers,CUST0100,Invalid email
+customers,CUST0150,Invalid email
+customers,CUST0200,Invalid email
+customers,CUST0250,Invalid email
+customers,CUST0300,Invalid email
+customers,CUST0350,Invalid email
+customers,CUST0400,Invalid email
+customers,CUST0450,Invalid email
+customers,CUST0500,Invalid email
+customers,CUST0550,Invalid email
+customers,CUST0600,Invalid email
+customers,CUST0650,Invalid email
+customers,CUST0700,Invalid email
+customers,CUST0750,Invalid email
+customers,CUST0800,Invalid email
+order_items,OI002981,Invalid order_id
+order_items,OI002982,Invalid order_id
+order_items,OI002983,Invalid order_id
+order_items,OI002984,Invalid order_id
+order_items,OI002985,Invalid order_id
+order_items,OI002986,Invalid order_id
+order_items,OI002987,Invalid order_id
+order_items,OI002988,Invalid order_id
+order_items,OI002989,Invalid order_id
+order_items,OI002990,Invalid order_id
+order_items,OI002991,Invalid order_id
+order_items,OI002992,Invalid order_id
+order_items,OI002993,Invalid order_id
+order_items,OI002994,Invalid order_id
+order_items,OI002995,Invalid order_id
+order_items,OI002996,Invalid order_id
+order_items,OI002997,Invalid order_id
+order_items,OI002998,Invalid order_id
+order_items,OI002999,Invalid order_id
+order_items,OI003000,Invalid order_id

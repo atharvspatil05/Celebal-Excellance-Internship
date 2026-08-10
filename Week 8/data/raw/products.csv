@@ -1,0 +1,641 @@
+product_id,product_name,category,subcategory,cost_price
+P0001,Smartphone 1,Electronics,Gadgets,28271.31
+P0002,Smartphone 2,Electronics,Gadgets,1566.6
+P0003,Smartphone 3,Electronics,Gadgets,27727.75
+P0004,Smartphone 4,Electronics,Gadgets,13023.03
+P0005,Smartphone 5,Electronics,Gadgets,21746.7
+P0006,Smartphone 6,Electronics,Gadgets,14908.99
+P0007,Smartphone 7,Electronics,Gadgets,11512.75
+P0008,Smartphone 8,Electronics,Gadgets,12828.59
+P0009,Smartphone 9,Electronics,Gadgets,10650.6
+P0010,Smartphone 10,Electronics,Gadgets,27253.71
+P0011,Smartphone 11,Electronics,Gadgets,8285.7
+P0012,Smartphone 12,Electronics,Gadgets,13408.04
+P0013,Smartphone 13,Electronics,Gadgets,4501.51
+P0014,Smartphone 14,Electronics,Gadgets,18442.49
+P0015,Smartphone 15,Electronics,Gadgets,18528.47
+P0016,Smartphone 16,Electronics,Gadgets,19435.99
+P0017,Smartphone 17,Electronics,Gadgets,14991.8
+P0018,Smartphone 18,Electronics,Gadgets,26489.22
+P0019,Smartphone 19,Electronics,Gadgets,14396.98
+P0020,Smartphone 20,Electronics,Gadgets,2677.26
+P0021,Laptop 1,Electronics,Gadgets,11521.31
+P0022,Laptop 2,Electronics,Gadgets,12606.08
+P0023,Laptop 3,Electronics,Gadgets,19297.44
+P0024,Laptop 4,Electronics,Gadgets,23926.08
+P0025,Laptop 5,Electronics,Gadgets,7511.98
+P0026,Laptop 6,Electronics,Gadgets,29822.91
+P0027,Laptop 7,Electronics,Gadgets,16332.52
+P0028,Laptop 8,Electronics,Gadgets,634.92
+P0029,Laptop 9,Electronics,Gadgets,11505.82
+P0030,Laptop 10,Electronics,Gadgets,21415.45
+P0031,Laptop 11,Electronics,Gadgets,14416.55
+P0032,Laptop 12,Electronics,Gadgets,23453.98
+P0033,Laptop 13,Electronics,Gadgets,10353.82
+P0034,Laptop 14,Electronics,Gadgets,16991.25
+P0035,Laptop 15,Electronics,Gadgets,9682.05
+P0036,Laptop 16,Electronics,Gadgets,8149.55
+P0037,  LAPTOP 17  ,Electronics,Gadgets,830.59
+P0038,Laptop 18,Electronics,Gadgets,17933.63
+P0039,Laptop 19,Electronics,Gadgets,927.64
+P0040,Laptop 20,Electronics,Gadgets,24330.15
+P0041, headphones 1 ,Electronics,Gadgets,8463.93
+P0042,Headphones 2,Electronics,Gadgets,24269.18
+P0043,Headphones 3,Electronics,Gadgets,14176.95
+P0044,Headphones 4,Electronics,Gadgets,10755.12
+P0045,Headphones 5,Electronics,Gadgets,17540.47
+P0046,Headphones 6,Electronics,Gadgets,7021.23
+P0047,Headphones 7,Electronics,Gadgets,4830.76
+P0048,Headphones 8,Electronics,Gadgets,7473.32
+P0049,Headphones 9,Electronics,Gadgets,7272.53
+P0050,Headphones 10,Electronics,Gadgets,16034.0
+P0051,Headphones 11,Electronics,Gadgets,23747.55
+P0052,Headphones 12,Electronics,Gadgets,22124.95
+P0053,Headphones 13,Electronics,Gadgets,22933.29
+P0054,Headphones 14,Electronics,Gadgets,28436.68
+P0055,Headphones 15,Electronics,Gadgets,17291.98
+P0056,Headphones 16,Electronics,Gadgets,29480.81
+P0057,Headphones 17,Electronics,Gadgets,11683.25
+P0058,Headphones 18,Electronics,Gadgets,28059.42
+P0059,Headphones 19,Electronics,Gadgets,29746.68
+P0060,Headphones 20,Electronics,Gadgets,5252.68
+P0061,Keyboard 1,Electronics,Gadgets,7134.71
+P0062,Keyboard 2,Electronics,Gadgets,9574.23
+P0063,Keyboard 3,Electronics,Gadgets,22156.25
+P0064,Keyboard 4,Electronics,Gadgets,10795.55
+P0065,Keyboard 5,Electronics,Gadgets,17767.3
+P0066,Keyboard 6,Electronics,Gadgets,21118.41
+P0067,Keyboard 7,Electronics,Gadgets,10582.88
+P0068,Keyboard 8,Electronics,Gadgets,17051.16
+P0069,Keyboard 9,Electronics,Gadgets,4305.96
+P0070,Keyboard 10,Electronics,Gadgets,28453.64
+P0071,Keyboard 11,Electronics,Gadgets,25109.07
+P0072,Keyboard 12,Electronics,Gadgets,24321.51
+P0073,Keyboard 13,Electronics,Gadgets,29113.11
+P0074,  KEYBOARD 14  ,Electronics,Gadgets,16286.63
+P0075,Keyboard 15,Electronics,Gadgets,5307.93
+P0076,Keyboard 16,Electronics,Gadgets,1187.01
+P0077,Keyboard 17,Electronics,Gadgets,1732.23
+P0078,Keyboard 18,Electronics,Gadgets,18069.8
+P0079,Keyboard 19,Electronics,Gadgets,646.84
+P0080,Keyboard 20,Electronics,Gadgets,14365.77
+P0081,Monitor 1,Electronics,Gadgets,9985.43
+P0082, monitor 2 ,Electronics,Gadgets,18443.34
+P0083,Monitor 3,Electronics,Gadgets,24203.04
+P0084,Monitor 4,Electronics,Gadgets,10255.73
+P0085,Monitor 5,Electronics,Gadgets,5364.92
+P0086,Monitor 6,Electronics,Gadgets,24082.61
+P0087,Monitor 7,Electronics,Gadgets,26053.1
+P0088,Monitor 8,Electronics,Gadgets,1833.7
+P0089,Monitor 9,Electronics,Gadgets,4473.97
+P0090,Monitor 10,Electronics,Gadgets,21155.66
+P0091,Monitor 11,Electronics,Gadgets,4292.5
+P0092,Monitor 12,Electronics,Gadgets,3372.07
+P0093,Monitor 13,Electronics,Gadgets,15812.53
+P0094,Monitor 14,Electronics,Gadgets,10978.45
+P0095,Monitor 15,Electronics,Gadgets,2222.32
+P0096,Monitor 16,Electronics,Gadgets,21150.91
+P0097,Monitor 17,Electronics,Gadgets,19881.08
+P0098,Monitor 18,Electronics,Gadgets,17601.2
+P0099,Monitor 19,Electronics,Gadgets,10130.0
+P0100,Monitor 20,Electronics,Gadgets,9711.97
+P0101,Smartwatch 1,Electronics,Gadgets,29277.03
+P0102,Smartwatch 2,Electronics,Gadgets,21983.94
+P0103,Smartwatch 3,Electronics,Gadgets,13134.21
+P0104,Smartwatch 4,Electronics,Gadgets,19196.02
+P0105,Smartwatch 5,Electronics,Gadgets,14641.64
+P0106,Smartwatch 6,Electronics,Gadgets,9552.64
+P0107,Smartwatch 7,Electronics,Gadgets,21230.13
+P0108,Smartwatch 8,Electronics,Gadgets,16881.22
+P0109,Smartwatch 9,Electronics,Gadgets,26693.53
+P0110,Smartwatch 10,Electronics,Gadgets,18430.58
+P0111,  SMARTWATCH 11  ,Electronics,Gadgets,10736.93
+P0112,Smartwatch 12,Electronics,Gadgets,19982.67
+P0113,Smartwatch 13,Electronics,Gadgets,24442.9
+P0114,Smartwatch 14,Electronics,Gadgets,11382.6
+P0115,Smartwatch 15,Electronics,Gadgets,22033.15
+P0116,Smartwatch 16,Electronics,Gadgets,8870.79
+P0117,Smartwatch 17,Electronics,Gadgets,5372.36
+P0118,Smartwatch 18,Electronics,Gadgets,103.85
+P0119,Smartwatch 19,Electronics,Gadgets,21075.15
+P0120,Smartwatch 20,Electronics,Gadgets,17206.4
+P0121,Tablet 1,Electronics,Gadgets,25530.17
+P0122,Tablet 2,Electronics,Gadgets,23136.37
+P0123, tablet 3 ,Electronics,Gadgets,17046.11
+P0124,Tablet 4,Electronics,Gadgets,5503.35
+P0125,Tablet 5,Electronics,Gadgets,9580.6
+P0126,Tablet 6,Electronics,Gadgets,24273.77
+P0127,Tablet 7,Electronics,Gadgets,18360.87
+P0128,Tablet 8,Electronics,Gadgets,19207.42
+P0129,Tablet 9,Electronics,Gadgets,3168.1
+P0130,Tablet 10,Electronics,Gadgets,14910.74
+P0131,Tablet 11,Electronics,Gadgets,9968.49
+P0132,Tablet 12,Electronics,Gadgets,2380.31
+P0133,Tablet 13,Electronics,Gadgets,10436.96
+P0134,Tablet 14,Electronics,Gadgets,9619.58
+P0135,Tablet 15,Electronics,Gadgets,19103.79
+P0136,Tablet 16,Electronics,Gadgets,28894.23
+P0137,Tablet 17,Electronics,Gadgets,24658.77
+P0138,Tablet 18,Electronics,Gadgets,20117.24
+P0139,Tablet 19,Electronics,Gadgets,21892.11
+P0140,Tablet 20,Electronics,Gadgets,10105.7
+P0141,Camera 1,Electronics,Gadgets,391.3
+P0142,Camera 2,Electronics,Gadgets,6330.04
+P0143,Camera 3,Electronics,Gadgets,20810.62
+P0144,Camera 4,Electronics,Gadgets,10546.91
+P0145,Camera 5,Electronics,Gadgets,23621.25
+P0146,Camera 6,Electronics,Gadgets,21626.39
+P0147,Camera 7,Electronics,Gadgets,1492.02
+P0148,  CAMERA 8  ,Electronics,Gadgets,13174.69
+P0149,Camera 9,Electronics,Gadgets,12618.61
+P0150,Camera 10,Electronics,Gadgets,5031.84
+P0151,Camera 11,Electronics,Gadgets,12449.87
+P0152,Camera 12,Electronics,Gadgets,26459.03
+P0153,Camera 13,Electronics,Gadgets,10569.37
+P0154,Camera 14,Electronics,Gadgets,11291.66
+P0155,Camera 15,Electronics,Gadgets,24872.77
+P0156,Camera 16,Electronics,Gadgets,23672.46
+P0157,Camera 17,Electronics,Gadgets,17362.76
+P0158,Camera 18,Electronics,Gadgets,22759.39
+P0159,Camera 19,Electronics,Gadgets,6806.2
+P0160,Camera 20,Electronics,Gadgets,13566.06
+P0161,T-Shirt 1,Clothing,Apparel,23985.88
+P0162,T-Shirt 2,Clothing,Apparel,1050.71
+P0163,T-Shirt 3,Clothing,Apparel,651.34
+P0164, t-shirt 4 ,Clothing,Apparel,7870.77
+P0165,T-Shirt 5,Clothing,Apparel,3186.52
+P0166,T-Shirt 6,Clothing,Apparel,10287.16
+P0167,T-Shirt 7,Clothing,Apparel,26643.54
+P0168,T-Shirt 8,Clothing,Apparel,4869.09
+P0169,T-Shirt 9,Clothing,Apparel,2296.32
+P0170,T-Shirt 10,Clothing,Apparel,28257.93
+P0171,T-Shirt 11,Clothing,Apparel,29342.34
+P0172,T-Shirt 12,Clothing,Apparel,10171.62
+P0173,T-Shirt 13,Clothing,Apparel,29559.02
+P0174,T-Shirt 14,Clothing,Apparel,26802.12
+P0175,T-Shirt 15,Clothing,Apparel,21149.91
+P0176,T-Shirt 16,Clothing,Apparel,12968.13
+P0177,T-Shirt 17,Clothing,Apparel,19626.37
+P0178,T-Shirt 18,Clothing,Apparel,18239.16
+P0179,T-Shirt 19,Clothing,Apparel,13054.3
+P0180,T-Shirt 20,Clothing,Apparel,1653.99
+P0181,Jeans 1,Clothing,Apparel,9966.28
+P0182,Jeans 2,Clothing,Apparel,29233.23
+P0183,Jeans 3,Clothing,Apparel,12307.93
+P0184,Jeans 4,Clothing,Apparel,16645.67
+P0185,  JEANS 5  ,Clothing,Apparel,27770.93
+P0186,Jeans 6,Clothing,Apparel,16226.76
+P0187,Jeans 7,Clothing,Apparel,19834.91
+P0188,Jeans 8,Clothing,Apparel,8957.15
+P0189,Jeans 9,Clothing,Apparel,2922.68
+P0190,Jeans 10,Clothing,Apparel,11817.42
+P0191,Jeans 11,Clothing,Apparel,16512.4
+P0192,Jeans 12,Clothing,Apparel,14753.9
+P0193,Jeans 13,Clothing,Apparel,1682.42
+P0194,Jeans 14,Clothing,Apparel,164.28
+P0195,Jeans 15,Clothing,Apparel,2674.47
+P0196,Jeans 16,Clothing,Apparel,24725.72
+P0197,Jeans 17,Clothing,Apparel,18771.47
+P0198,Jeans 18,Clothing,Apparel,14435.84
+P0199,Jeans 19,Clothing,Apparel,2954.76
+P0200,Jeans 20,Clothing,Apparel,6248.24
+P0201,Jacket 1,Clothing,Apparel,19163.81
+P0202,Jacket 2,Clothing,Apparel,29312.88
+P0203,Jacket 3,Clothing,Apparel,14233.44
+P0204,Jacket 4,Clothing,Apparel,3509.49
+P0205, jacket 5 ,Clothing,Apparel,23557.05
+P0206,Jacket 6,Clothing,Apparel,14154.79
+P0207,Jacket 7,Clothing,Apparel,26851.58
+P0208,Jacket 8,Clothing,Apparel,7986.88
+P0209,Jacket 9,Clothing,Apparel,19273.9
+P0210,Jacket 10,Clothing,Apparel,11656.44
+P0211,Jacket 11,Clothing,Apparel,11162.06
+P0212,Jacket 12,Clothing,Apparel,11474.28
+P0213,Jacket 13,Clothing,Apparel,5638.16
+P0214,Jacket 14,Clothing,Apparel,1386.28
+P0215,Jacket 15,Clothing,Apparel,13220.23
+P0216,Jacket 16,Clothing,Apparel,7938.85
+P0217,Jacket 17,Clothing,Apparel,25120.51
+P0218,Jacket 18,Clothing,Apparel,16949.19
+P0219,Jacket 19,Clothing,Apparel,4576.36
+P0220,Jacket 20,Clothing,Apparel,20909.3
+P0221,Sneakers 1,Clothing,Apparel,2946.24
+P0222,  SNEAKERS 2  ,Clothing,Apparel,20060.83
+P0223,Sneakers 3,Clothing,Apparel,24255.0
+P0224,Sneakers 4,Clothing,Apparel,12448.9
+P0225,Sneakers 5,Clothing,Apparel,22705.88
+P0226,Sneakers 6,Clothing,Apparel,6864.01
+P0227,Sneakers 7,Clothing,Apparel,1876.46
+P0228,Sneakers 8,Clothing,Apparel,11643.83
+P0229,Sneakers 9,Clothing,Apparel,15701.34
+P0230,Sneakers 10,Clothing,Apparel,28970.55
+P0231,Sneakers 11,Clothing,Apparel,20627.68
+P0232,Sneakers 12,Clothing,Apparel,28094.02
+P0233,Sneakers 13,Clothing,Apparel,17202.79
+P0234,Sneakers 14,Clothing,Apparel,7107.48
+P0235,Sneakers 15,Clothing,Apparel,9000.62
+P0236,Sneakers 16,Clothing,Apparel,11874.39
+P0237,Sneakers 17,Clothing,Apparel,25625.5
+P0238,Sneakers 18,Clothing,Apparel,1090.12
+P0239,Sneakers 19,Clothing,Apparel,17158.04
+P0240,Sneakers 20,Clothing,Apparel,15528.68
+P0241,Dress 1,Clothing,Apparel,17165.99
+P0242,Dress 2,Clothing,Apparel,29483.51
+P0243,Dress 3,Clothing,Apparel,4466.06
+P0244,Dress 4,Clothing,Apparel,28480.18
+P0245,Dress 5,Clothing,Apparel,13498.74
+P0246, dress 6 ,Clothing,Apparel,28474.39
+P0247,Dress 7,Clothing,Apparel,5056.59
+P0248,Dress 8,Clothing,Apparel,6396.11
+P0249,Dress 9,Clothing,Apparel,5822.15
+P0250,Dress 10,Clothing,Apparel,1328.14
+P0251,Dress 11,Clothing,Apparel,2397.14
+P0252,Dress 12,Clothing,Apparel,20509.61
+P0253,Dress 13,Clothing,Apparel,6097.48
+P0254,Dress 14,Clothing,Apparel,24685.79
+P0255,Dress 15,Clothing,Apparel,4478.95
+P0256,Dress 16,Clothing,Apparel,17871.68
+P0257,Dress 17,Clothing,Apparel,9626.5
+P0258,Dress 18,Clothing,Apparel,21826.74
+P0259,  DRESS 19  ,Clothing,Apparel,24229.94
+P0260,Dress 20,Clothing,Apparel,2656.47
+P0261,Hoodie 1,Clothing,Apparel,16713.11
+P0262,Hoodie 2,Clothing,Apparel,16584.02
+P0263,Hoodie 3,Clothing,Apparel,25705.89
+P0264,Hoodie 4,Clothing,Apparel,15614.66
+P0265,Hoodie 5,Clothing,Apparel,27519.0
+P0266,Hoodie 6,Clothing,Apparel,420.3
+P0267,Hoodie 7,Clothing,Apparel,21027.34
+P0268,Hoodie 8,Clothing,Apparel,17647.9
+P0269,Hoodie 9,Clothing,Apparel,23461.49
+P0270,Hoodie 10,Clothing,Apparel,3419.94
+P0271,Hoodie 11,Clothing,Apparel,4531.79
+P0272,Hoodie 12,Clothing,Apparel,17019.49
+P0273,Hoodie 13,Clothing,Apparel,17501.18
+P0274,Hoodie 14,Clothing,Apparel,28946.71
+P0275,Hoodie 15,Clothing,Apparel,3051.11
+P0276,Hoodie 16,Clothing,Apparel,3213.76
+P0277,Hoodie 17,Clothing,Apparel,23397.36
+P0278,Hoodie 18,Clothing,Apparel,23583.08
+P0279,Hoodie 19,Clothing,Apparel,26030.88
+P0280,Hoodie 20,Clothing,Apparel,26410.07
+P0281,Shirt 1,Clothing,Apparel,26342.91
+P0282,Shirt 2,Clothing,Apparel,7960.89
+P0283,Shirt 3,Clothing,Apparel,19660.89
+P0284,Shirt 4,Clothing,Apparel,17182.1
+P0285,Shirt 5,Clothing,Apparel,14217.75
+P0286,Shirt 6,Clothing,Apparel,5207.38
+P0287, shirt 7 ,Clothing,Apparel,12119.07
+P0288,Shirt 8,Clothing,Apparel,18566.42
+P0289,Shirt 9,Clothing,Apparel,20440.35
+P0290,Shirt 10,Clothing,Apparel,12081.51
+P0291,Shirt 11,Clothing,Apparel,11903.99
+P0292,Shirt 12,Clothing,Apparel,26374.78
+P0293,Shirt 13,Clothing,Apparel,20730.89
+P0294,Shirt 14,Clothing,Apparel,1526.26
+P0295,Shirt 15,Clothing,Apparel,14282.78
+P0296,  SHIRT 16  ,Clothing,Apparel,8094.1
+P0297,Shirt 17,Clothing,Apparel,11204.6
+P0298,Shirt 18,Clothing,Apparel,10169.09
+P0299,Shirt 19,Clothing,Apparel,23819.88
+P0300,Shirt 20,Clothing,Apparel,9362.93
+P0301,Trousers 1,Clothing,Apparel,25293.25
+P0302,Trousers 2,Clothing,Apparel,25754.13
+P0303,Trousers 3,Clothing,Apparel,20561.32
+P0304,Trousers 4,Clothing,Apparel,29176.27
+P0305,Trousers 5,Clothing,Apparel,6877.32
+P0306,Trousers 6,Clothing,Apparel,9049.39
+P0307,Trousers 7,Clothing,Apparel,22324.52
+P0308,Trousers 8,Clothing,Apparel,23232.23
+P0309,Trousers 9,Clothing,Apparel,9660.01
+P0310,Trousers 10,Clothing,Apparel,21877.54
+P0311,Trousers 11,Clothing,Apparel,18169.13
+P0312,Trousers 12,Clothing,Apparel,2724.14
+P0313,Trousers 13,Clothing,Apparel,13279.41
+P0314,Trousers 14,Clothing,Apparel,27407.31
+P0315,Trousers 15,Clothing,Apparel,12244.75
+P0316,Trousers 16,Clothing,Apparel,14559.59
+P0317,Trousers 17,Clothing,Apparel,15519.22
+P0318,Trousers 18,Clothing,Apparel,11248.61
+P0319,Trousers 19,Clothing,Apparel,1733.36
+P0320,Trousers 20,Clothing,Apparel,23755.14
+P0321,Mixer 1,Home,Household,2015.23
+P0322,Mixer 2,Home,Household,21301.6
+P0323,Mixer 3,Home,Household,12131.38
+P0324,Mixer 4,Home,Household,23426.47
+P0325,Mixer 5,Home,Household,15752.37
+P0326,Mixer 6,Home,Household,17081.74
+P0327,Mixer 7,Home,Household,5253.43
+P0328, mixer 8 ,Home,Household,26261.66
+P0329,Mixer 9,Home,Household,6061.77
+P0330,Mixer 10,Home,Household,1775.94
+P0331,Mixer 11,Home,Household,1040.48
+P0332,Mixer 12,Home,Household,1564.25
+P0333,  MIXER 13  ,Home,Household,10843.23
+P0334,Mixer 14,Home,Household,6013.34
+P0335,Mixer 15,Home,Household,11082.14
+P0336,Mixer 16,Home,Household,13953.34
+P0337,Mixer 17,Home,Household,11938.42
+P0338,Mixer 18,Home,Household,27696.05
+P0339,Mixer 19,Home,Household,20451.17
+P0340,Mixer 20,Home,Household,7296.05
+P0341,Lamp 1,Home,Household,14689.16
+P0342,Lamp 2,Home,Household,13410.8
+P0343,Lamp 3,Home,Household,28817.59
+P0344,Lamp 4,Home,Household,14263.74
+P0345,Lamp 5,Home,Household,16562.44
+P0346,Lamp 6,Home,Household,10360.26
+P0347,Lamp 7,Home,Household,25137.73
+P0348,Lamp 8,Home,Household,7796.86
+P0349,Lamp 9,Home,Household,24934.56
+P0350,Lamp 10,Home,Household,2757.24
+P0351,Lamp 11,Home,Household,872.14
+P0352,Lamp 12,Home,Household,1537.05
+P0353,Lamp 13,Home,Household,25621.95
+P0354,Lamp 14,Home,Household,23405.91
+P0355,Lamp 15,Home,Household,6468.84
+P0356,Lamp 16,Home,Household,6679.46
+P0357,Lamp 17,Home,Household,6792.11
+P0358,Lamp 18,Home,Household,6241.59
+P0359,Lamp 19,Home,Household,19565.04
+P0360,Lamp 20,Home,Household,15422.77
+P0361,Chair 1,Home,Household,25945.67
+P0362,Chair 2,Home,Household,29015.79
+P0363,Chair 3,Home,Household,20481.88
+P0364,Chair 4,Home,Household,14249.21
+P0365,Chair 5,Home,Household,4012.81
+P0366,Chair 6,Home,Household,5237.36
+P0367,Chair 7,Home,Household,24035.9
+P0368,Chair 8,Home,Household,6751.91
+P0369, chair 9 ,Home,Household,18269.9
+P0370,  CHAIR 10  ,Home,Household,28293.0
+P0371,Chair 11,Home,Household,21396.58
+P0372,Chair 12,Home,Household,21295.58
+P0373,Chair 13,Home,Household,8297.59
+P0374,Chair 14,Home,Household,26869.72
+P0375,Chair 15,Home,Household,25555.01
+P0376,Chair 16,Home,Household,13796.99
+P0377,Chair 17,Home,Household,6585.36
+P0378,Chair 18,Home,Household,9099.25
+P0379,Chair 19,Home,Household,15643.11
+P0380,Chair 20,Home,Household,18727.0
+P0381,Bedsheet 1,Home,Household,17555.39
+P0382,Bedsheet 2,Home,Household,270.06
+P0383,Bedsheet 3,Home,Household,29982.91
+P0384,Bedsheet 4,Home,Household,28996.24
+P0385,Bedsheet 5,Home,Household,25189.38
+P0386,Bedsheet 6,Home,Household,16865.64
+P0387,Bedsheet 7,Home,Household,17833.49
+P0388,Bedsheet 8,Home,Household,8516.17
+P0389,Bedsheet 9,Home,Household,20548.17
+P0390,Bedsheet 10,Home,Household,14478.07
+P0391,Bedsheet 11,Home,Household,10121.7
+P0392,Bedsheet 12,Home,Household,8330.67
+P0393,Bedsheet 13,Home,Household,9787.86
+P0394,Bedsheet 14,Home,Household,8342.7
+P0395,Bedsheet 15,Home,Household,19700.78
+P0396,Bedsheet 16,Home,Household,28568.02
+P0397,Bedsheet 17,Home,Household,19561.42
+P0398,Bedsheet 18,Home,Household,5691.38
+P0399,Bedsheet 19,Home,Household,15542.94
+P0400,Bedsheet 20,Home,Household,7247.05
+P0401,Cookware 1,Home,Household,1750.4
+P0402,Cookware 2,Home,Household,25726.6
+P0403,Cookware 3,Home,Household,24310.37
+P0404,Cookware 4,Home,Household,12152.75
+P0405,Cookware 5,Home,Household,9621.59
+P0406,Cookware 6,Home,Household,4240.89
+P0407,  COOKWARE 7  ,Home,Household,812.39
+P0408,Cookware 8,Home,Household,14946.32
+P0409,Cookware 9,Home,Household,8903.36
+P0410, cookware 10 ,Home,Household,27212.0
+P0411,Cookware 11,Home,Household,12167.74
+P0412,Cookware 12,Home,Household,22115.13
+P0413,Cookware 13,Home,Household,17511.56
+P0414,Cookware 14,Home,Household,29842.87
+P0415,Cookware 15,Home,Household,24489.64
+P0416,Cookware 16,Home,Household,10327.85
+P0417,Cookware 17,Home,Household,21415.41
+P0418,Cookware 18,Home,Household,20605.23
+P0419,Cookware 19,Home,Household,19167.49
+P0420,Cookware 20,Home,Household,14298.27
+P0421,Vacuum Cleaner 1,Home,Household,28223.01
+P0422,Vacuum Cleaner 2,Home,Household,10786.99
+P0423,Vacuum Cleaner 3,Home,Household,9040.84
+P0424,Vacuum Cleaner 4,Home,Household,5141.1
+P0425,Vacuum Cleaner 5,Home,Household,19745.56
+P0426,Vacuum Cleaner 6,Home,Household,16769.53
+P0427,Vacuum Cleaner 7,Home,Household,8848.83
+P0428,Vacuum Cleaner 8,Home,Household,14149.89
+P0429,Vacuum Cleaner 9,Home,Household,22240.52
+P0430,Vacuum Cleaner 10,Home,Household,21769.34
+P0431,Vacuum Cleaner 11,Home,Household,16793.0
+P0432,Vacuum Cleaner 12,Home,Household,27383.11
+P0433,Vacuum Cleaner 13,Home,Household,28410.36
+P0434,Vacuum Cleaner 14,Home,Household,26992.76
+P0435,Vacuum Cleaner 15,Home,Household,19650.32
+P0436,Vacuum Cleaner 16,Home,Household,6706.49
+P0437,Vacuum Cleaner 17,Home,Household,6738.67
+P0438,Vacuum Cleaner 18,Home,Household,26149.4
+P0439,Vacuum Cleaner 19,Home,Household,12643.15
+P0440,Vacuum Cleaner 20,Home,Household,26610.96
+P0441,Pillow 1,Home,Household,11181.89
+P0442,Pillow 2,Home,Household,17587.84
+P0443,Pillow 3,Home,Household,13939.63
+P0444,  PILLOW 4  ,Home,Household,3577.56
+P0445,Pillow 5,Home,Household,1657.62
+P0446,Pillow 6,Home,Household,19050.18
+P0447,Pillow 7,Home,Household,17430.38
+P0448,Pillow 8,Home,Household,18638.61
+P0449,Pillow 9,Home,Household,14192.98
+P0450,Pillow 10,Home,Household,5876.59
+P0451, pillow 11 ,Home,Household,3638.49
+P0452,Pillow 12,Home,Household,20436.9
+P0453,Pillow 13,Home,Household,15918.66
+P0454,Pillow 14,Home,Household,12422.56
+P0455,Pillow 15,Home,Household,26131.93
+P0456,Pillow 16,Home,Household,4565.81
+P0457,Pillow 17,Home,Household,29770.82
+P0458,Pillow 18,Home,Household,10312.96
+P0459,Pillow 19,Home,Household,29616.39
+P0460,Pillow 20,Home,Household,26790.71
+P0461,Storage Box 1,Home,Household,29600.15
+P0462,Storage Box 2,Home,Household,4339.56
+P0463,Storage Box 3,Home,Household,25878.7
+P0464,Storage Box 4,Home,Household,5451.69
+P0465,Storage Box 5,Home,Household,2470.3
+P0466,Storage Box 6,Home,Household,10012.25
+P0467,Storage Box 7,Home,Household,29599.88
+P0468,Storage Box 8,Home,Household,9436.75
+P0469,Storage Box 9,Home,Household,1787.51
+P0470,Storage Box 10,Home,Household,13588.99
+P0471,Storage Box 11,Home,Household,6321.0
+P0472,Storage Box 12,Home,Household,23217.59
+P0473,Storage Box 13,Home,Household,17309.55
+P0474,Storage Box 14,Home,Household,4795.13
+P0475,Storage Box 15,Home,Household,23567.07
+P0476,Storage Box 16,Home,Household,23403.59
+P0477,Storage Box 17,Home,Household,3925.71
+P0478,Storage Box 18,Home,Household,13039.66
+P0479,Storage Box 19,Home,Household,12910.82
+P0480,Storage Box 20,Home,Household,12899.31
+P0481,  PYTHON GUIDE 1  ,Books,Knowledge,14348.14
+P0482,Python Guide 2,Books,Knowledge,189.84
+P0483,Python Guide 3,Books,Knowledge,16036.79
+P0484,Python Guide 4,Books,Knowledge,21933.24
+P0485,Python Guide 5,Books,Knowledge,28504.56
+P0486,Python Guide 6,Books,Knowledge,26765.59
+P0487,Python Guide 7,Books,Knowledge,22717.59
+P0488,Python Guide 8,Books,Knowledge,15954.46
+P0489,Python Guide 9,Books,Knowledge,586.59
+P0490,Python Guide 10,Books,Knowledge,173.51
+P0491,Python Guide 11,Books,Knowledge,22021.42
+P0492, python guide 12 ,Books,Knowledge,6826.66
+P0493,Python Guide 13,Books,Knowledge,26315.7
+P0494,Python Guide 14,Books,Knowledge,9397.16
+P0495,Python Guide 15,Books,Knowledge,3126.11
+P0496,Python Guide 16,Books,Knowledge,15124.93
+P0497,Python Guide 17,Books,Knowledge,9218.15
+P0498,Python Guide 18,Books,Knowledge,2005.35
+P0499,Python Guide 19,Books,Knowledge,1419.26
+P0500,Python Guide 20,Books,Knowledge,28456.48
+P0501,SQL Handbook 1,Books,Knowledge,13704.99
+P0502,SQL Handbook 2,Books,Knowledge,15632.64
+P0503,SQL Handbook 3,Books,Knowledge,15747.32
+P0504,SQL Handbook 4,Books,Knowledge,13038.27
+P0505,SQL Handbook 5,Books,Knowledge,20619.07
+P0506,SQL Handbook 6,Books,Knowledge,4056.99
+P0507,SQL Handbook 7,Books,Knowledge,29884.36
+P0508,SQL Handbook 8,Books,Knowledge,14730.85
+P0509,SQL Handbook 9,Books,Knowledge,22515.96
+P0510,SQL Handbook 10,Books,Knowledge,4988.26
+P0511,SQL Handbook 11,Books,Knowledge,27211.48
+P0512,SQL Handbook 12,Books,Knowledge,24369.65
+P0513,SQL Handbook 13,Books,Knowledge,622.79
+P0514,SQL Handbook 14,Books,Knowledge,6768.42
+P0515,SQL Handbook 15,Books,Knowledge,29547.14
+P0516,SQL Handbook 16,Books,Knowledge,6375.15
+P0517,SQL Handbook 17,Books,Knowledge,706.3
+P0518,  SQL HANDBOOK 18  ,Books,Knowledge,15163.77
+P0519,SQL Handbook 19,Books,Knowledge,3738.7
+P0520,SQL Handbook 20,Books,Knowledge,21347.75
+P0521,Data Science 1,Books,Knowledge,23774.21
+P0522,Data Science 2,Books,Knowledge,11287.01
+P0523,Data Science 3,Books,Knowledge,19227.62
+P0524,Data Science 4,Books,Knowledge,23148.93
+P0525,Data Science 5,Books,Knowledge,18712.89
+P0526,Data Science 6,Books,Knowledge,17838.03
+P0527,Data Science 7,Books,Knowledge,1486.41
+P0528,Data Science 8,Books,Knowledge,3288.0
+P0529,Data Science 9,Books,Knowledge,25091.79
+P0530,Data Science 10,Books,Knowledge,1494.64
+P0531,Data Science 11,Books,Knowledge,3517.91
+P0532,Data Science 12,Books,Knowledge,13357.21
+P0533, data science 13 ,Books,Knowledge,3751.67
+P0534,Data Science 14,Books,Knowledge,7619.51
+P0535,Data Science 15,Books,Knowledge,21070.95
+P0536,Data Science 16,Books,Knowledge,6204.57
+P0537,Data Science 17,Books,Knowledge,20587.91
+P0538,Data Science 18,Books,Knowledge,328.67
+P0539,Data Science 19,Books,Knowledge,12655.1
+P0540,Data Science 20,Books,Knowledge,3074.35
+P0541,Cloud Computing 1,Books,Knowledge,15633.26
+P0542,Cloud Computing 2,Books,Knowledge,18702.79
+P0543,Cloud Computing 3,Books,Knowledge,21036.75
+P0544,Cloud Computing 4,Books,Knowledge,12593.83
+P0545,Cloud Computing 5,Books,Knowledge,26963.73
+P0546,Cloud Computing 6,Books,Knowledge,15371.96
+P0547,Cloud Computing 7,Books,Knowledge,18550.05
+P0548,Cloud Computing 8,Books,Knowledge,8517.07
+P0549,Cloud Computing 9,Books,Knowledge,23553.56
+P0550,Cloud Computing 10,Books,Knowledge,14957.28
+P0551,Cloud Computing 11,Books,Knowledge,18289.6
+P0552,Cloud Computing 12,Books,Knowledge,23349.87
+P0553,Cloud Computing 13,Books,Knowledge,24953.39
+P0554,Cloud Computing 14,Books,Knowledge,29194.94
+P0555,  CLOUD COMPUTING 15  ,Books,Knowledge,10769.76
+P0556,Cloud Computing 16,Books,Knowledge,12322.2
+P0557,Cloud Computing 17,Books,Knowledge,4853.19
+P0558,Cloud Computing 18,Books,Knowledge,16466.76
+P0559,Cloud Computing 19,Books,Knowledge,27315.18
+P0560,Cloud Computing 20,Books,Knowledge,20661.71
+P0561,AI Fundamentals 1,Books,Knowledge,14445.89
+P0562,AI Fundamentals 2,Books,Knowledge,7073.43
+P0563,AI Fundamentals 3,Books,Knowledge,431.84
+P0564,AI Fundamentals 4,Books,Knowledge,2715.64
+P0565,AI Fundamentals 5,Books,Knowledge,3357.41
+P0566,AI Fundamentals 6,Books,Knowledge,17245.88
+P0567,AI Fundamentals 7,Books,Knowledge,14848.42
+P0568,AI Fundamentals 8,Books,Knowledge,28485.91
+P0569,AI Fundamentals 9,Books,Knowledge,23396.81
+P0570,AI Fundamentals 10,Books,Knowledge,2297.69
+P0571,AI Fundamentals 11,Books,Knowledge,21721.11
+P0572,AI Fundamentals 12,Books,Knowledge,27148.14
+P0573,AI Fundamentals 13,Books,Knowledge,19347.89
+P0574, ai fundamentals 14 ,Books,Knowledge,13729.7
+P0575,AI Fundamentals 15,Books,Knowledge,29319.86
+P0576,AI Fundamentals 16,Books,Knowledge,7960.54
+P0577,AI Fundamentals 17,Books,Knowledge,1549.9
+P0578,AI Fundamentals 18,Books,Knowledge,24404.69
+P0579,AI Fundamentals 19,Books,Knowledge,26230.51
+P0580,AI Fundamentals 20,Books,Knowledge,25574.85
+P0581,Algorithms 1,Books,Knowledge,10838.43
+P0582,Algorithms 2,Books,Knowledge,20319.16
+P0583,Algorithms 3,Books,Knowledge,12808.56
+P0584,Algorithms 4,Books,Knowledge,3521.24
+P0585,Algorithms 5,Books,Knowledge,25544.81
+P0586,Algorithms 6,Books,Knowledge,26714.25
+P0587,Algorithms 7,Books,Knowledge,339.69
+P0588,Algorithms 8,Books,Knowledge,4194.91
+P0589,Algorithms 9,Books,Knowledge,19433.6
+P0590,Algorithms 10,Books,Knowledge,9893.39
+P0591,Algorithms 11,Books,Knowledge,26841.1
+P0592,  ALGORITHMS 12  ,Books,Knowledge,28654.92
+P0593,Algorithms 13,Books,Knowledge,8085.87
+P0594,Algorithms 14,Books,Knowledge,22005.38
+P0595,Algorithms 15,Books,Knowledge,11210.03
+P0596,Algorithms 16,Books,Knowledge,10314.55
+P0597,Algorithms 17,Books,Knowledge,3459.27
+P0598,Algorithms 18,Books,Knowledge,12037.49
+P0599,Algorithms 19,Books,Knowledge,13723.33
+P0600,Algorithms 20,Books,Knowledge,25079.46
+P0601,Database Design 1,Books,Knowledge,20712.58
+P0602,Database Design 2,Books,Knowledge,14373.44
+P0603,Database Design 3,Books,Knowledge,12681.11
+P0604,Database Design 4,Books,Knowledge,26589.41
+P0605,Database Design 5,Books,Knowledge,5045.02
+P0606,Database Design 6,Books,Knowledge,4018.72
+P0607,Database Design 7,Books,Knowledge,21806.01
+P0608,Database Design 8,Books,Knowledge,29448.0
+P0609,Database Design 9,Books,Knowledge,25338.28
+P0610,Database Design 10,Books,Knowledge,3156.21
+P0611,Database Design 11,Books,Knowledge,27341.24
+P0612,Database Design 12,Books,Knowledge,14506.11
+P0613,Database Design 13,Books,Knowledge,17089.86
+P0614,Database Design 14,Books,Knowledge,13172.98
+P0615, database design 15 ,Books,Knowledge,18359.13
+P0616,Database Design 16,Books,Knowledge,23385.97
+P0617,Database Design 17,Books,Knowledge,18360.18
+P0618,Database Design 18,Books,Knowledge,25884.14
+P0619,Database Design 19,Books,Knowledge,26404.51
+P0620,Database Design 20,Books,Knowledge,21832.0
+P0621,Spark Guide 1,Books,Knowledge,26758.3
+P0622,Spark Guide 2,Books,Knowledge,14518.24
+P0623,Spark Guide 3,Books,Knowledge,14669.28
+P0624,Spark Guide 4,Books,Knowledge,26633.44
+P0625,Spark Guide 5,Books,Knowledge,13248.6
+P0626,Spark Guide 6,Books,Knowledge,1946.91
+P0627,Spark Guide 7,Books,Knowledge,19666.46
+P0628,Spark Guide 8,Books,Knowledge,420.19
+P0629,  SPARK GUIDE 9  ,Books,Knowledge,26056.55
+P0630,Spark Guide 10,Books,Knowledge,15768.3
+P0631,Spark Guide 11,Books,Knowledge,22321.53
+P0632,Spark Guide 12,Books,Knowledge,21727.02
+P0633,Spark Guide 13,Books,Knowledge,6758.35
+P0634,Spark Guide 14,Books,Knowledge,28675.05
+P0635,Spark Guide 15,Books,Knowledge,26200.65
+P0636,Spark Guide 16,Books,Knowledge,15597.04
+P0637,Spark Guide 17,Books,Knowledge,20662.84
+P0638,Spark Guide 18,Books,Knowledge,18566.26
+P0639,Spark Guide 19,Books,Knowledge,13013.79
+P0640,Spark Guide 20,Books,Knowledge,21813.23
